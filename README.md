@@ -31,7 +31,7 @@ python3 Weather_project.py
 ## Instructions
 
 In the `Weather_project.py` file you may need to change the path of local directory where the file would be stored.</br>
-_The code `ln20` would look like:_
+_The `ln20` code would look like:_
 ```
 directory = "D:/CODING/Spyder/WeatherText/"
 ```

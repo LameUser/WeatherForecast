@@ -37,4 +37,4 @@ directory = "D:/CODING/Spyder/WeatherText/"
 ```
 ## Author
 
-**_(LameUser)[https://github.com/LameUser]_**
+**_(LameUser)_**[https://github.com/LameUser]

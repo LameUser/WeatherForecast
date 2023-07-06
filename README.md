@@ -1,6 +1,13 @@
 # WeatherForecast
 This python tool will help you know the weather of any city you ask it for and will save the results in the file in your local directory.
 
+It promts the following information about the City a user inputs.
+<li>Temperature</li></br>
+<li>Weather conditions</li></br>
+<li>Humdity status</li></br>
+<li>Wind Speed</li></br>
+
+
 ## Installation
 
 _For linux:_ 
@@ -35,6 +42,7 @@ _The `ln20` code would look like:_
 ```
 directory = "D:/CODING/Spyder/WeatherText/"
 ```
+
 ## Author
 
 **_[LameUser](https://github.com/LameUser)_**

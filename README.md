@@ -4,7 +4,7 @@ This python tool will help you know the weather of any city you ask it for and w
 ## Installation
 
 _For linux:_ 
-<li>Write this command to clone this tool to your desktop.</li>
+<li>Write this command to clone this tool to your desktop.</li></br>
 
 
 ```

@@ -1,7 +1,7 @@
 # WeatherForecast
 This python tool will help you know the weather of any city you ask it for and will save the results in the file in your local directory. It promts the following information about the City a user inputs.
 _<li>Temperature</li></br>_
-<li>_Weather conditions_</li></br>
+_<li>Weather conditions</li></br>_
 <li>Humdity status</li></br>
 <li>Wind Speed</li></br>
 

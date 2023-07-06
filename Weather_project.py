@@ -9,6 +9,7 @@ import requests
 from datetime import datetime
 
 apikey = '1ee32b061f2d8c8f32d1d1a6764e4ffb'
+
 """Here I have added lowercase function which will return the entered value in lowercase 
 even though the user types CAPITAL LETTER as websites does not accept Uppercase"""
 

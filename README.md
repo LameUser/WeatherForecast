@@ -35,3 +35,6 @@ _The `ln20` code would look like:_
 ```
 directory = "D:/CODING/Spyder/WeatherText/"
 ```
+## Author
+
+**_LameUser_**

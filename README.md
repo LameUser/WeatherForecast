@@ -9,3 +9,26 @@ _For linux:_
 ```
 git clone https://github.com/LameUser/WeatherForecast.git
 ```
+
+<li>Enter into the WeatherForecase directory</li></br>
+
+```
+cd WeatherForecast
+```
+
+<li>You may need to provide executable permission to the python file.</li></br>
+
+```
+chmod +x Weather_project.py
+```
+
+<li>Now run the file.</li></br>
+
+```
+python3 Weather_project.py
+```
+
+## Instructions
+
+In the `Weather_project.py` file you may need to change the path of local directory where the file would be stored. 
+_The code would look like *directory = "D:/CODING/Spyder/WeatherText/"*_

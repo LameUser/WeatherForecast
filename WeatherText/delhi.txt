@@ -1,0 +1,7 @@
+----------------------------------------------------------
+Weather Stats for - DELHI || 07 Jul 2023 | 02:14:57 AM
+----------------------------------------------------------
+Present temperature is     : 28.05 deg C
+Present weather conditions : mist
+Present humidity status is : 94 %
+Present wind speed is      : 2.06 kmph

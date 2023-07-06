@@ -2,7 +2,7 @@
 """
 Created on Tue Jun 22 02:56:23 2021
 
-@author: lenovo
+@author: LameUser
 """
 import sys
 import requests

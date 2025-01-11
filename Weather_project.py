@@ -8,7 +8,7 @@ import sys
 import requests
 from datetime import datetime
 
-apikey = '1ee32b061f2d8c8f32d1d1a6764e4ffb'
+apikey = 'place_your_api_key'
 
 """Here I have added lowercase function which will return the entered value in lowercase 
 even though the user types CAPITAL LETTER as websites does not accept Uppercase"""
@@ -17,7 +17,7 @@ location = input("Enter the city name : ").lower()
 finallink = 'https://api.openweathermap.org/data/2.5/weather?q='+location+"&appid="+apikey
 apilink = requests.get(finallink)
 apidata = apilink.json()
-directory = "D:/CODING/Spyder/WeatherText/"
+directory = "D:/CODING/Spyder/WeatherText/" #change this location as per your preference 
 
 #variables to store and display data
 temp = ((apidata['main']['temp']) - 273.15)
